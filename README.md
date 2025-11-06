@@ -50,3 +50,32 @@ Opportunities / areas to expand:
 - Add authentication, role‐based access (hospital staff vs patient) for real deployment.
 
 - Enhance with APIs (e.g., doctor availability, appointment booking).
+
+**Structure**
+HealthCare At Your Desk/
+│
+├── index.html
+├── faq.html
+├── 13986.jpg
+├── logo.png
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css   ← (agar responsive design ke liye alag file ho)
+│
+├── js/
+│   ├── main.js
+│   ├── form.js          ← (agar contact form validation ke liye use ho)
+│
+├── img/
+│   ├── doctor1.jpg
+│   ├── hospital.jpg
+│   ├── patient.jpg
+│
+├── fonts/
+│   ├── Poppins-Regular.ttf
+│   ├── Poppins-Bold.ttf
+│
+└── contactform/
+    ├── contact.html
+    ├── contact.js
