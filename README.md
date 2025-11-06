@@ -51,31 +51,35 @@ Opportunities / areas to expand:
 
 - Enhance with APIs (e.g., doctor availability, appointment booking).
 
-**Structure**
-HealthCare At Your Desk/
-│
-├── index.html
-├── faq.html
-├── 13986.jpg
-├── logo.png
-│
-├── css/
-│   ├── style.css
-│   ├── responsive.css   ← (agar responsive design ke liye alag file ho)
-│
-├── js/
-│   ├── main.js
-│   ├── form.js          ← (agar contact form validation ke liye use ho)
-│
-├── img/
-│   ├── doctor1.jpg
-│   ├── hospital.jpg
-│   ├── patient.jpg
-│
-├── fonts/
-│   ├── Poppins-Regular.ttf
-│   ├── Poppins-Bold.ttf
-│
-└── contactform/
-    ├── contact.html
-    ├── contact.js
+## 📁 Project Folder Structure
+
+HealthCare-At-Your-Desk/ 
+
+<img width="380" height="796" alt="image" src="https://github.com/user-attachments/assets/4ec43248-8bba-41e0-a968-26521b6065ad" />
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/MrAbhi07/HealthCare-At-Your-Desk.git
+
+
+---
+
+### 💬 How to use:
+- Paste the entire block above in your `README.md`
+- Save and push to GitHub  
+- Click **Preview** → it will display beautifully formatted 💅
+
+---
+
+Would you like me to add an extra section for **“Screenshots / Live Demo”** (with placeholders where you can later add your website screenshots or hosted link)?
+
+🧑‍💻 Developed By
+
+- Abhishek Vishwakarma
+  - B.Tech IT Student @ Axis Institute of Technology and Management,(719) Kanpur
+  - ✨ Passionate about web development & AI integration
